@@ -5,3 +5,7 @@
 # The user should be allowed to try this code upto 5 times.
 # your code should use only if and while statements.  Do not use any
 # data structures including lists, dictionaries, tuples, etc,
+# Do not use advanced topics including class, or lambda or comprehension 
+# or generators to complete this
+
+
