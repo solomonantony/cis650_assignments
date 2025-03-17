@@ -1,4 +1,4 @@
-# Rewrite this script to using case statements
+# Rewrite this script to using case statements 
 import random
 def getAnswer(answerNumber):
     if answerNumber == 1:
