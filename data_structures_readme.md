@@ -1,1 +1,2 @@
-# The requirements of the data structures assignment will be posted here.
+# The requirements of the data structures assignment are in the 8 py files. 
+
