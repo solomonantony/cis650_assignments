@@ -1,2 +1,4 @@
 # cis650_assignments
-This is the main github repo branch
+This is the functions branch
+The assignment requirements are shown in the modules
+
