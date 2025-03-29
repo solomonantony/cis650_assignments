@@ -41,7 +41,6 @@ def get_items(catalog):
     items = []
     # Your code goes here
     return items
-
 # Commit your code.  Write the commit message here....
 # 
 
@@ -98,7 +97,8 @@ def main():
     items = coupon_sale(items, catalog, coupons)
     print_bill(items)
 
-
+# Commit your code.  Write the commit message here....
+# 
 
 
 
